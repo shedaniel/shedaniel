@@ -25,6 +25,6 @@ Hi! I am Daniel. You may know me from my Minecraft modding projects, or Linkie (
 - [Linkie](https://linkie.shedaniel.dev): Serving 500+ discord servers, 190K+ website views, a search engine for Minecraft mappings / dependencies.</br>
     _VueJS / TypeScript / Tailwind CSS / Kotlin / Discord4J_
 - [CUHK Timetable](https://cuplanner.vercel.app): Timetable planner for CUHK.</br>
-    _React / Next.JS / Tailwind CSS / Puppeteer_
+    _React / Next.JS / TypeScript / Tailwind CSS / Puppeteer_
 - [AutoDuo](https://autoduo.shedaniel.dev): Automatically authenticates duo requests.</br>
-    _React / Next.JS / Bun / Tailwind CSS / shadcn/ui_
+    _React / Next.JS / Bun / TypeScript / Tailwind CSS / shadcn/ui_
