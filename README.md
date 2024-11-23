@@ -1,19 +1,26 @@
 Hi! I am Daniel. You may know me from my Minecraft modding projects, or Linkie (discord bot / website), or if you haven't, nice to meet you! Here's some info about me:
 
 **Skillset**
-- Java (5+ years)</br>
-    _knowledge on Bytecode, ASM, Gradle (plugins), etc_
-- Kotlin (3+ years)</br>
-    _experiences on Ktor, etc_
-- JavaScript / TypeScript (2+ years)</br>
-    _experiences on Vue, React, Next.JS_
-- Python</br>
-    _experiences on numpy, pygame_
+- Java (6+ years)</br>
+    _deep knowledge on Bytecode, Gradle, Discord4J, etc_
+- Kotlin (4+ years)</br>
+    _knowledge on Ktor, etc_
+- JavaScript / TypeScript (3+ years)</br>
+    _knowledge on Vue, React, Next.JS, Tailwind, etc_
+- Python (2+ years)</br>
+    _knowledge on numpy, pygame_
 
-**Freelancing Commissions**
-- 2022 - 2023: TommyInnit (Hide and Seek, part of Natural Disasters, part of Superheroes)
+**Professional Work**
+- Oct 2024 ~ Present: [Parami AI](https://parami.ai)</br>
+    _in charge of robotics, researching ros2 and SLAM_
+- 2022 ~ 2023: [TommyInnit](https://youtube.com/@TommyInnit) (Hide and Seek, Natural Disasters, Superheroes)
+    _in charge of integrating custom game modes into Minecraft_
 - 2022: Scott Smajor (Afterlife SMP)
 - 2021: ShadowApples (#TeamSeas, Every Item can be mined)
+
+**Statistics**
+- 121th in GitHub Hong Kong
+- 600+ million total downloads
 
 **Projects**
 - [Roughly Enough Items](https://www.github.com/shedaniel/RoughlyEnoughItems): 35M+ downloads, 300+ stars, a configurable NEI/JEI solution for Fabric Mod Loader.</br>
