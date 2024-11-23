@@ -13,14 +13,14 @@ Hi! I am Daniel. You may know me from my Minecraft modding projects, or Linkie (
 **Professional Work**
 - Oct 2024 ~ Present: [Parami AI](https://parami.ai)</br>
     _in charge of robotics, researching ros2 and SLAM_
-- 2022 ~ 2023: [TommyInnit](https://youtube.com/@TommyInnit) (Hide and Seek, Natural Disasters, Superheroes)
+- 2022 ~ 2023: [TommyInnit](https://youtube.com/@TommyInnit) (Hide and Seek, Natural Disasters, Superheroes)</br>
     _in charge of integrating custom game modes into Minecraft_
 - 2022: Scott Smajor (Afterlife SMP)
 - 2021: ShadowApples (#TeamSeas, Every Item can be mined)
 
 **Statistics**
-- 121th in GitHub Hong Kong
-- 600+ million total downloads
+- __**121th**__ in GitHub Hong Kong
+- __**600+ million**__ total downloads
 
 **Projects**
 - [Roughly Enough Items](https://www.github.com/shedaniel/RoughlyEnoughItems): 35M+ downloads, 300+ stars, a configurable NEI/JEI solution for Fabric Mod Loader.</br>
